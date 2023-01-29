@@ -1,0 +1,6 @@
+G:\.shortcut-targets-by-id\1FwqdLmGx6a-sTjHVq5pTU5T7GbKBPccZ\work\CSharpRunner\bin\Release\CSharpRunner.dll
+G:\.shortcut-targets-by-id\1FwqdLmGx6a-sTjHVq5pTU5T7GbKBPccZ\work\CSharpRunner\bin\Release\CSharpRunner.pdb
+G:\.shortcut-targets-by-id\1FwqdLmGx6a-sTjHVq5pTU5T7GbKBPccZ\work\CSharpRunner\obj\Release\CSharpRunner.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1FwqdLmGx6a-sTjHVq5pTU5T7GbKBPccZ\work\CSharpRunner\obj\Release\CSharpRunner.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1FwqdLmGx6a-sTjHVq5pTU5T7GbKBPccZ\work\CSharpRunner\obj\Release\CSharpRunner.dll
+G:\.shortcut-targets-by-id\1FwqdLmGx6a-sTjHVq5pTU5T7GbKBPccZ\work\CSharpRunner\obj\Release\CSharpRunner.pdb
